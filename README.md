@@ -1,4 +1,4 @@
-# GoPiGo3 & Raspberry Pi Projects
+# Raspberry Pi Projects
 
 ![GoPiGo3](./img/GoPiGo3.jpg)
 
@@ -31,8 +31,6 @@ My GoPiGo3 with all its modifications.
 - **Threading folder** contains a threading tutorial and example code. Threads allow the robot to do many tasks at a time.
 - **GoPiGo3 Pi Getting Started Bullseye Tutorial**
 - **GoPiGo3 Getting Started Buster Tutorial**
-- **GoPiGo3 Cloud Data with ThingSpeak Tutorial** --> Upload sensor data to [ThingSpeak.com](https://www.thingspeak.com).
-  - Go to [billthecomputerguy.com/gopigo](https://www.billthecomputerguy.com/gopigo) for example readings.
 - **GoPiGo3 Sensors Tutorial**
 - **GoPiGo Tutorials**
 - **Raspberry Pi Getting Started Bullseye and Bookworm Tutorial**
@@ -50,16 +48,15 @@ My GoPiGo3 with all its modifications.
 
 I am an Information Technology Instructor at Western Nebraska Community College. I teach Information Technology Technical Support, CyberSecurity, and Computer Science.
 
-This repository is for my personal projects and resources with the Raspberry Pi-based Modular Robotics GoPiGo3.
+This repository is for my personal projects and resources with Raspberry Pi's.
 
-WNCC NASA GoPiGo3 projects are located at [https://github.com/itinstructor/WNCCNASA](https://github.com/itinstructor/WNCCNASA).
 
-- **Facebook**: [Facebook WNCC IT Program](https://www.facebook.com/wnccitprogram/)
-- **YouTube**: [YouTube WNCC IT Program](https://www.youtube.com/@williamloringitinstructor)
+- **Facebook**: [Facebook WNCC IT Program and STEM](https://www.facebook.com/wnccitstem/)
+- **YouTube**: [YouTube WNCC IT Program and STEM](https://www.youtube.com/@wnccstem)
 
 ## License
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Copyright (c) 2025 William A Loring
+Copyright (c) 2023-26 William A Loring
