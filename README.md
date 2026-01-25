@@ -2,7 +2,7 @@
 
 ![GoPiGo3](./img/GoPiGo3.jpg)
 
-My GoPiGo3 with all its modifications.
+My Raspberry Pi based GoPiGo3 with all its modifications.
 
 ## History
 
@@ -26,16 +26,6 @@ My GoPiGo3 with all its modifications.
 
 ![Obstacle Scanner](./img/ObstacleScanner.png)
 
-## Documentation
-
-- **Threading folder** contains a threading tutorial and example code. Threads allow the robot to do many tasks at a time.
-- **GoPiGo3 Pi Getting Started Bullseye Tutorial**
-- **GoPiGo3 Getting Started Buster Tutorial**
-- **GoPiGo3 Sensors Tutorial**
-- **GoPiGo Tutorials**
-- **Raspberry Pi Getting Started Bullseye and Bookworm Tutorial**
-- **Raspberry Pi Sensors**
-
 ## Projects
 
 - **OfficeCannon** --> The GoPiGo3 launches soft missiles with Dream Cheeky Thunder.
@@ -48,11 +38,10 @@ My GoPiGo3 with all its modifications.
 
 I am an Information Technology Instructor at Western Nebraska Community College. I teach Information Technology Technical Support, CyberSecurity, and Computer Science.
 
-This repository is for my personal projects and resources with Raspberry Pi's.
+This repository is for my personal projects and resources for Raspberry Pi's.
 
-
-- **Facebook**: [Facebook WNCC IT Program and STEM](https://www.facebook.com/wnccitstem/)
-- **YouTube**: [YouTube WNCC IT Program and STEM](https://www.youtube.com/@wnccstem)
+- **Facebook**: [Facebook WNCC IT Program and STEM Program](https://www.facebook.com/wnccstem/)
+- **YouTube**: [YouTube WNCC IT Program and STEM Program](https://www.youtube.com/@wnccstem)
 
 ## License
 
